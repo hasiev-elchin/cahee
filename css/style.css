@@ -526,6 +526,11 @@ body {
     height: 250px;
 }
 
+::-webkit-input-placeholder { color:#fff; }
+::-moz-placeholder          { color:#fff; }
+:-moz-placeholder           { color:#fff; }
+:-ms-input-placeholder      { color:#fff; }
+
 .contacts {
     font-size: 20px;
 }
